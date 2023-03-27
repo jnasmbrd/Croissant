@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  background: #d0f1fc;
+}
+
+h1 {
+  font-size: 55px;
+  text-align: center;
+}
+
+p {
+  font-size: 19px;
+  text-align: center;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+.contact-us:hover {
+  color: #bb1aa6;
+}
+footer {
+  text-align: center;
+  font-family: cursive;
+  font-size: 22px;
+}
+
+footer a {
+  margin: 0 10px;
+  color: #e00ac4;
+}
